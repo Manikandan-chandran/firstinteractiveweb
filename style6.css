@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+
+header, nav, main, footer {
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+header{
+    background-color: lightskyblue;
+}
+
+nav{
+    padding:10px ;
+}
+
+h1{
+    text-align: center;
+}
